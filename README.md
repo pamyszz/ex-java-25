@@ -44,7 +44,7 @@ A seguir estão as funcionalidades implementadas nos exercícios:
 * [VS Code](https://code.visualstudio.com) 💻 - Ambiente de desenvolvimento utilizado.
 
 # Pessoas Desenvolvedoras do Projeto
-* [Pamyaszz](https://github.com/Pamyaszz)
+* [Pamyszz](https://github.com/Pamyszz)
 * Exercícios da Professora: Débora Paixão ❤️
 
 # 🛠️ Abrir e Rodar o Projeto
